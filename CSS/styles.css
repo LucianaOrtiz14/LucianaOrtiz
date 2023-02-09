@@ -1,0 +1,35 @@
+h1{
+  color:#8080ff;
+}
+
+h1{
+  font-style:italic;
+}
+
+h2{
+  color:#cc0066;
+}
+
+p{
+  color:#ffffff;
+}
+
+p{
+  font-size:16pt;
+}
+
+p{
+  font-style:normal;
+}
+
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}
+
+body {
+  background-image: url("https://www.muyinteresante.com.mx/wp-content/uploads/2018/05/httpstved-prod.adobecqms.netcontentdameditorialTelevisamexicomuyinteresantemxjuniorpreguntas-y-respuestas1508Arena.imgo_.jpg"), url("paper.gif");
+  background-color: #cccccc;
+}
